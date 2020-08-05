@@ -1,0 +1,131 @@
+Datos{
+    Nombre,*
+    Solucion,*
+    descripcion, *
+    accion general*,
+    accion especifica*
+}
+
+Ubicacion{
+    estado,* 
+    municipio, *
+    parroquia, *
+    lugar obra,
+    lugar acion
+    hidrologica*
+}
+
+beneficio{
+    poblaion
+}
+
+tiempo{
+    lapso inicial,
+    lapso final
+}
+
+
+
+<div className = "column">
+                    <div className = "box">
+                      <p><strong>Ubicacion</strong></p>
+                      <br/>
+                      <div className = "columns">
+                        <div className="column is-one-third">
+                        <div class="field">
+                          <label class="label">Estado</label>
+                            <p class="control has-icons-left">
+                              <span class="select">
+                                <select>
+                                  <option selected>--Soluciones--</option>
+                                  <option>Convencionales</option>
+                                  <option>Estructurantes</option>
+                                  <option>Comunitarias</option>
+                                  <option>Fuentes</option>
+                                </select>
+                              </span>
+                              <span class="icon is-small is-left">
+                                <i class="fas fa-globe"></i>
+                              </span>
+                            </p>
+                          </div>
+                        </div>  
+                      
+                      <div className="column is-one-third">
+                        <div class="field">
+                          <label class="label">Municipio</label>
+                            <p class="control has-icons-left">
+                              <span class="select">
+                                <select>
+                                  <option selected>--Soluciones--</option>
+                                  <option>Convencionales</option>
+                                  <option>Estructurantes</option>
+                                  <option>Comunitarias</option>
+                                  <option>Fuentes</option>
+                                </select>
+                              </span>
+                              <span class="icon is-small is-left">
+                                <i class="fas fa-globe"></i>
+                              </span>
+                            </p>
+                          </div>
+                        </div>  
+                      
+                      <div className="column is-one-third">
+                        <div class="field">
+                          <label class="label">Parroquia</label>
+                            <p class="control has-icons-left">
+                              <span class="select">
+                                <select>
+                                  <option selected>--Soluciones--</option>
+                                  <option>Convencionales</option>
+                                  <option>Estructurantes</option>
+                                  <option>Comunitarias</option>
+                                  <option>Fuentes</option>
+                                </select>
+                              </span>
+                              <span class="icon is-small is-left">
+                                <i class="fas fa-globe"></i>
+                              </span>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>  
+
+                  <div className="column">
+                        <div className="box">
+                          <p><strong>Tiempo</strong></p>
+                          <br/>
+                          <div className="columns">
+                            <div className="column is-half ">
+                            <div class="field">
+                                <label class="label">Nombre proyecto</label>
+                                <div class="control">
+                                  <input class="input" type="text" placeholder="Nombre proyecto"/>
+                                </div>
+                              </div>
+                            </div>
+                        <div className="column is-half">
+                          <div class="field">
+                            <label class="label">Tipo solucion</label>
+                              <p class="control has-icons-left">
+                                <span class="select">
+                                  <select>
+                                    <option selected>--Soluciones--</option>
+                                    <option>Convencionales</option>
+                                    <option>Estructurantes</option>
+                                    <option>Comunitarias</option>
+                                    <option>Fuentes</option>
+                                  </select>
+                                </span>
+                                <span class="icon is-small is-left">
+                                  <i class="fas fa-globe"></i>
+                                </span>
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div> 
