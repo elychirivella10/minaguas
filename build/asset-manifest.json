@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d57d4c63.chunk.css",
+    "main.js": "./static/js/main.b138805c.chunk.js",
+    "main.js.map": "./static/js/main.b138805c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.de2254f0.js",
+    "runtime-main.js.map": "./static/js/runtime-main.de2254f0.js.map",
+    "static/css/2.e9bb821b.chunk.css": "./static/css/2.e9bb821b.chunk.css",
+    "static/js/2.c0e2ed69.chunk.js": "./static/js/2.c0e2ed69.chunk.js",
+    "static/js/2.c0e2ed69.chunk.js.map": "./static/js/2.c0e2ed69.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.57c0432f353377d86d4d048eb63574bb.js": "./precache-manifest.57c0432f353377d86d4d048eb63574bb.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.e9bb821b.chunk.css.map": "./static/css/2.e9bb821b.chunk.css.map",
+    "static/css/main.d57d4c63.chunk.css.map": "./static/css/main.d57d4c63.chunk.css.map",
+    "static/js/2.c0e2ed69.chunk.js.LICENSE.txt": "./static/js/2.c0e2ed69.chunk.js.LICENSE.txt",
+    "static/media/all.css": "./static/media/fa-solid-900.f3a7d3b5.woff",
+    "static/media/index.css": "./static/media/fondo-ciudad.c2e1e31a.svg",
+    "static/media/icon-gota-agua.svg": "./static/media/icon-gota-agua.eb4e55be.svg",
+    "static/media/logo.svg": "./static/media/logo.00f049d0.svg",
+    "static/media/leaflet.draw.css": "./static/media/spritesheet.fd5728f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de2254f0.js",
+    "static/css/2.e9bb821b.chunk.css",
+    "static/js/2.c0e2ed69.chunk.js",
+    "static/css/main.d57d4c63.chunk.css",
+    "static/js/main.b138805c.chunk.js"
+  ]
+}
